@@ -131,7 +131,7 @@ Options:
     --expand                                    expand the feature file (all preconditions)
     {1}
 
-(C) Copyright 2013 by Timo Furrer <tuxtimo@gmail.com>
+(C) Copyright by Timo Furrer <tuxtimo@gmail.com>
     """
     # load extensions
     load_modules(os.path.join(os.path.dirname(__file__), "extensions"))
